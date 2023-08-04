@@ -1,0 +1,125 @@
+.card{
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.6), 0 8px 10px -6px rgb(0 0 0 / 0.4);
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.card:hover{
+    border: black solid 1px;
+    box-shadow: 0 25px 30px -5px rgb(0 0 0 / 0.4), 0 8px 10px -7px rgb(0 0 0 / 0.2);
+}
+
+.card-text{
+    color: rgb(30 58 138);
+    font-weight: 900;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    padding-top: 1.2rem;
+    width: 13rem;
+}
+
+.card-para{
+    text-transform: capitalize;
+    color: purple;
+    font-weight: 400;
+    font-size: 1rem;
+    height: 4rem;
+}
+
+.popup{
+    background: linear-gradient(90deg,#2c5364,#203a43,#0f2027);
+    color: white;
+    padding: 2rem;
+    margin: -1rem;
+}
+
+.popup-header{
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-left: 18rem;
+}
+
+.close-button{
+    margin-left: 17rem;
+    border: none;
+    color: white;
+
+}
+
+.popup-jokes-card{
+    border: black solid 1px;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.popup-jokes{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 500;
+}
+
+.popup-button{
+ width: 20rem;
+ background-color: blue;
+ color: white;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    margin-left: 10rem;
+}
+
+.popup-button:hover{
+    background-color: rgb(43, 43, 185);
+
+}
+
+
+@media (max-width:480px) {
+    
+    .card-text{
+        width: 13rem;
+    }
+    .popup{
+        width: 16rem;
+        padding: 0.6rem;
+        margin-left: -4rem;
+    }
+    
+    .popup-header{
+        font-size: 1.3rem;
+        font-weight: 400;
+        margin-left: 0.2rem;
+    }
+    
+    .close-button{
+        margin-left: 2rem;
+        border: none;
+        color: white;
+
+    }
+
+    .popup-jokes-card{
+        border: black solid 1px;
+        padding: 0.4rem;
+        margin-top: 0.6rem;
+    }
+
+    .popup-jokes{
+        font-size: 1.1rem;
+        text-align: center;
+        font-weight: 600;
+    }
+
+    .popup-button{
+    width: 9rem;
+    background-color: blue;
+    color: white;
+        margin-top: 0.4rem;
+        margin-bottom: 0.2rem;
+        margin-left: 3rem;
+    }   
+}
