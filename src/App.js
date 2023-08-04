@@ -1,10 +1,10 @@
-import Jokes from "./Jokes";
+import Home from "./Components/Home/Home";
 
 function App() {
 
   return (
     <div className="App">
-      <Jokes />
+      <Home/>
     </div>
   );
 }
