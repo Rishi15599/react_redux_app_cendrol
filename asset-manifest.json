@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react_redux_app_cendro/static/css/main.5787645d.css",
-    "main.js": "/react_redux_app_cendro/static/js/main.52964694.js",
-    "index.html": "/react_redux_app_cendro/index.html",
-    "main.5787645d.css.map": "/react_redux_app_cendro/static/css/main.5787645d.css.map",
-    "main.52964694.js.map": "/react_redux_app_cendro/static/js/main.52964694.js.map"
+    "main.css": "/react_redux_app_cendrol/static/css/main.5787645d.css",
+    "main.js": "/react_redux_app_cendrol/static/js/main.52964694.js",
+    "index.html": "/react_redux_app_cendrol/index.html",
+    "main.5787645d.css.map": "/react_redux_app_cendrol/static/css/main.5787645d.css.map",
+    "main.52964694.js.map": "/react_redux_app_cendrol/static/js/main.52964694.js.map"
   },
   "entrypoints": [
     "static/css/main.5787645d.css",
