@@ -7,7 +7,7 @@ import './Card.css'
 import CloseButton from 'react-bootstrap/CloseButton';
 
 
-const url = `https://api.chucknorris.io/jokes/random?category=`
+const url = `http://api.chucknorris.io/jokes/random?category=`
 
 const Card = ({ category }) => {
     const [isPopupOpen, setIsPopupOpen] = useState(false);

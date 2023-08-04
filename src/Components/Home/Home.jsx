@@ -8,7 +8,7 @@ const Home = () => {
   let [data, setData] = useState([])
 
   useEffect(() => {
-    fetch("https://api.chucknorris.io/jokes/categories")
+    fetch("http://api.chucknorris.io/jokes/categories")
       .then((res) => res.json())
       .then((data) => setData(data))
   }, [])
