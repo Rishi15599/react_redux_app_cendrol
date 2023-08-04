@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rishi15599/react_redux_app_cendrol1/static/css/main.5787645d.css",
+    "main.js": "/Rishi15599/react_redux_app_cendrol1/static/js/main.52964694.js",
+    "index.html": "/Rishi15599/react_redux_app_cendrol1/index.html",
+    "main.5787645d.css.map": "/Rishi15599/react_redux_app_cendrol1/static/css/main.5787645d.css.map",
+    "main.52964694.js.map": "/Rishi15599/react_redux_app_cendrol1/static/js/main.52964694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5787645d.css",
+    "static/js/main.52964694.js"
+  ]
+}
